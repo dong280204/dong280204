@@ -1,0 +1,21 @@
+.form {
+  width: 760px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+p {
+  padding: 20px 50px;
+  font-size: 1.5rem;
+}
+form {
+  padding: 0 60px;
+}
+table {
+  margin: 0 auto;
+  padding-top: 50px;
+}
+button {
+  display: block;
+  margin: 0 auto;
+}
